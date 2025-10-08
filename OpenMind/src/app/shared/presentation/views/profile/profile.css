@@ -1,0 +1,46 @@
+.profile-container {
+  text-align: center;
+  margin-top: 6rem;
+  color: #202020;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  width: 100%;
+}
+
+.input-field {
+  max-width: 400px;
+}
+
+.half {
+  width: 35%;
+}
+
+.full {
+  width: 80%;
+  max-width: 400px;
+}
+
+.save-btn {
+  margin-top: 1.5rem;
+  background-color: #353535 !important;
+  color: white !important;
+  font-size: 1.1rem;
+  padding: 0.8rem 2.5rem;
+  border-radius: 0.5rem;
+}

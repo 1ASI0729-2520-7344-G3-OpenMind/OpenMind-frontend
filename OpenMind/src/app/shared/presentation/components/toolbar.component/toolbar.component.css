@@ -1,0 +1,33 @@
+.toolbar-container{
+  width: 80%;
+  justify-content: center;
+  margin: auto;
+}
+.toolbar {
+  width: 100%;
+  background-color: #D9D9D9;
+  height: 100%;
+  justify-content: center;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+.openmind-logo{
+  width: 6rem;
+  height:5rem;
+  border-radius: 10px;
+}
+.example-icon{
+  width: 4rem;
+  height: 4rem;
+}
+.notificacion-icon{
+  align-content: center;
+  width: 3rem;
+  height: 3rem;
+  font-size: 3rem;
+  color: #ffb400;
+}
+.example-spacer{
+  flex: 0.94 0.94 auto;
+}
